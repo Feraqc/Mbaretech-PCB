@@ -3346,6 +3346,12 @@
 		(color 0 0 0 0)
 		(uuid "ca0a787e-ac47-422c-89db-a4f13cdf9e63")
 	)
+	(junction
+		(at 59.69 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fea7f123-d7e1-4e14-b213-497296e3390f")
+	)
 	(no_connect
 		(at 109.22 39.37)
 		(uuid "0089533f-576a-491c-bb2c-0939eec026a6")
@@ -5323,6 +5329,16 @@
 			(type default)
 		)
 		(uuid "db9ee704-4ed5-4596-a645-4d1e7b4bb346")
+	)
+	(wire
+		(pts
+			(xy 59.69 144.78) (xy 59.69 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dca57238-0fec-45ee-b3c2-9d5bad097298")
 	)
 	(wire
 		(pts
@@ -13167,6 +13183,71 @@
 			(project "MBARETECH"
 				(path "/22b8a1e8-4df5-4930-9e5c-6226e609bfdf"
 					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 59.69 144.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b38dd5a6-c4f5-498d-b3f7-83099e38cacf")
+		(property "Reference" "#PWR01"
+			(at 59.69 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 59.69 149.098 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 59.69 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 59.69 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 59.69 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b655e26c-8811-4cfb-a4b2-e9d142fc145f")
+		)
+		(instances
+			(project "MBARETECH"
+				(path "/22b8a1e8-4df5-4930-9e5c-6226e609bfdf"
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
