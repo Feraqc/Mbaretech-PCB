@@ -1,0 +1,21 @@
+﻿designator,quantity,value,pack,mpn,mount_type
+", , ",3,,,,tht
+BUCK1,1,BUCK_3V3,Buck-Converter,,smt
+Battery1,1,BATT,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,,tht
+DIP1,1,DIP,SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm,,tht
+IMU1,1,IMU,PinHeader_1x10_P2.54mm_Vertical,,tht
+IR1,1,IR1,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,,tht
+IR2,1,IR2,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,,tht
+IR3,1,IR3,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,,tht
+KS1,1,KS,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,,tht
+LS1,1,LS1,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,,tht
+LS2,1,LS2,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,,tht
+MA1,1,MA,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,,tht
+MB1,1,MB,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,,tht
+MotorA1,1,MA PWR,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,,tht
+MotorB1,1,MB PWR,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,,tht
+"R1, R2, R3, R4, R5",5,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,smt
+"R6, R7",2,1Ok,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,smt
+SW1,1,SW1,tht,,tht
+SW2,1,SW2,tht,,tht
+U1,1,ESP32-S3-DEVKITC-1-N8R2,XCVR_ESP32-S3-DEVKITC-1-N8R2,,tht

@@ -1,0 +1,28 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,value,mount_type,place
+221.92,-68.049999,0.0,top,,,,,tht,True
+146.919999,-111.049999,0.0,top,,,,,tht,True
+146.92,-68.0,0.0,top,,,,,tht,True
+203.8,-115.0,0.0,top,BUCK1,,Buck-Converter,BUCK_3V3,smt,True
+196.475,-112.1,90.0,top,Battery1,,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,BATT,tht,True
+212.6,-64.9325,-90.0,top,DIP1,,SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm,DIP,tht,True
+215.96,-77.63,0.0,top,IMU1,,PinHeader_1x10_P2.54mm_Vertical,IMU,tht,True
+153.475,-112.1,90.0,top,IR1,,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,IR1,tht,True
+160.8675,-112.1,90.0,top,IR2,,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,IR2,tht,True
+168.26,-112.1,90.0,top,IR3,,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,IR3,tht,True
+177.9,-71.19,90.0,top,KS1,,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,KS,tht,True
+194.485,-71.19,90.0,top,LS1,,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,LS1,tht,True
+186.2,-71.19,90.0,top,LS2,,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,LS2,tht,True
+161.3,-71.19,90.0,top,MA1,,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,MA,tht,True
+169.6,-71.19,90.0,top,MB1,,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,MB,tht,True
+181.69,-112.1,90.0,top,MotorA1,,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,MA PWR,tht,True
+189.0825,-112.1,90.0,top,MotorB1,,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,MB PWR,tht,True
+205.0,-69.2,90.0,bottom,R1,,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,10k,smt,True
+207.5,-69.2,90.0,bottom,R2,,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,10k,smt,True
+210.1,-69.2,90.0,bottom,R3,,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,10k,smt,True
+212.6,-69.2,90.0,bottom,R4,,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,10k,smt,True
+162.4,-96.39375,-90.0,bottom,R5,,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,10k,smt,True
+157.3,-96.4,-90.0,bottom,R6,,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1Ok,smt,True
+170.0,-96.39375,-90.0,bottom,R7,,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1Ok,smt,True
+155.3,-70.8,90.0,top,SW1,,tht,SW1,tht,True
+175.7975,-111.6,90.0,top,SW2,,tht,SW2,tht,True
+175.65,-89.03,-90.0,top,U1,,XCVR_ESP32-S3-DEVKITC-1-N8R2,ESP32-S3-DEVKITC-1-N8R2,tht,True
